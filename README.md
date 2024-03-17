@@ -25,7 +25,10 @@ https://github.com/Devesh36/HR-Tech/assets/142524747/e8f3bbf2-b616-4b7a-b104-3f5
 - Proactive Talent Management
 - Resource Optimization
 - Data-Driven Decision Making
-  https://github.com/Devesh36/HR-Tech/assets/142524747/f27e8d16-3b67-453a-91fb-89e300893f15
+
+
+https://github.com/Devesh36/HR-Tech/assets/142524747/e76591a6-bc47-4d04-b845-e4254fa5d112
+
 
 ### Behavioral Hiring
 - Streamlines candidate evaluation through resume parsing, machine learning-based scoring, and sentiment analysis.
